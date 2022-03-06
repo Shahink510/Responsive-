@@ -77,7 +77,7 @@ img {
 .hero {
   grid-area: hero;
   min-height: 400px;
-  background: white url(C:/Users/SHAHEEN/Downloads/image.jpg);
+  background: white url(C:/Users/SHAHEEN/OneDrive/Desktop/Demo/image.jpg);
   background-size: cover;
   background-position: bottom right;
   padding: 50px;
